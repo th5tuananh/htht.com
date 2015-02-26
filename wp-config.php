@@ -51,6 +51,9 @@ define('SECURE_AUTH_SALT', 'jtpwYaoer-A(Vkr0BadrQK|c}ALs:Nt]FVjI<[)l42$y$F-m,jBc
 define('LOGGED_IN_SALT',   '|?{75LCD_m:+FD=6K=++~NV%P_|+kaX1 Ia47-}ndTZW-+I$gc2T5!S@eM2F}}<D');
 define('NONCE_SALT',       '0b6<w*-0z?5dg}&!}+ B}<ae+~#PaF<*}+|ltBj-^9TU=Amg_H~E}_N, TydY2g+');
 
+
+
+define('WPLANG', 'vi');
 /**#@-*/
 
 /**
